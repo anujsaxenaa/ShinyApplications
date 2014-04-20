@@ -18,7 +18,7 @@ library(grDevices)
 ```
 Run the following:
 ```
-shiny::runGitHub('msan622', 'anujsaxenaa', subdir='R-lohamora')
+shiny::runGitHub('ShinyApplications', 'anujsaxenaa', subdir='R-lohamora')
 ```
 ## Discussion ##
 ![IMAGE](barPlot.png)
