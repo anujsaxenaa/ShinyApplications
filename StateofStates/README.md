@@ -17,7 +17,7 @@ library(stringi)
 library(plyr)
 library(GGally)
 
-shiny::runGitHub('msan622', 'anujsaxenaa', subdir='homework3')
+shiny::runGitHub('msan622', 'anujsaxenaa', subdir='StateofStates')
 ```
 
 
