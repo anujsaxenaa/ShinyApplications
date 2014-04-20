@@ -1,9 +1,9 @@
-Homework 4: Text Visualization
-==============================
+Text Visualization of Harry Potter Series
+=========================================
 
 | **Name**  | Anuj Saxena  |
 |----------:|:-------------|
-| **Email** | asaxena2@dons.usfca.edu |
+| **Email** | anujsaxenaa@gmail.com |
 
 ## Instructions ##
 
@@ -26,4 +26,4 @@ To check for the most occuring words in each book. The word-slider lets you brow
 ![IMAGE](wordcloud.png)
 In the wordcloud, the size of the word represents the frequency. The color helps us segment this more visibly.
 ![IMAGE](comparisoncloud.png)
-Comparision cloud lets us compare the frequency of occurrences across all the Harry Potter books. They may take a while to appear so be patient.
+Comparision cloud lets us compare the frequency of occurrences across all the Harry Potter books. They may take a while to appear so kindly be patient.
