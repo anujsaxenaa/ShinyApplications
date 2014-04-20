@@ -1,5 +1,5 @@
-Homework 3: Multivariate 
-==============================
+Multivariate Visualization of U.S. States
+=========================================
 
 | **Name**  | Anuj Saxena  |
 |----------:|:-------------|
