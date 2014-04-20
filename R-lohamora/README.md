@@ -21,9 +21,9 @@ Run the following:
 shiny::runGitHub('ShinyApplications', 'anujsaxenaa', subdir='R-lohamora')
 ```
 ## Discussion ##
-![IMAGE](barPlot.png)
+![IMAGE](bar_plot.png)
 To check for the most occuring words in each book. The word-slider lets you browse through up to 60 words.
-![IMAGE](wordCloud.png)
+![IMAGE](word_cloud.png)
 In the wordcloud, the size of the word represents the frequency. The color helps us segment this more visibly.
-![IMAGE](comparisonCloud.png)
+![IMAGE](comparison_cloud.png)
 Comparision cloud lets us compare the frequency of occurrences across all the Harry Potter books. They may take a while to appear so kindly be patient.
