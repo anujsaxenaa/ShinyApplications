@@ -22,7 +22,7 @@ shiny::runGitHub('ShinyApplications', 'anujsaxenaa', subdir='StateofStates')
 
 
 ## Discussion ##
-My main goal in this assigment is to show how well we can represent data to understand the insights in it.
+My main goal in this is to show how well we can represent data to understand the insights in it.
 
 ![IMAGE](bubblePlot.png)
 I used the X, Y, Color & Size measures to show all the different variables. The X & Y axis are relative to the variable selected. The breaks on the axis are in the form of 25% quantiles to show how every 25% of the data is places on the graph. 
