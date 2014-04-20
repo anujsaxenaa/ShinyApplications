@@ -3,7 +3,7 @@ Multivariate Visualization of U.S. States
 
 | **Name**  | Anuj Saxena  |
 |----------:|:-------------|
-| **Email** | asaxena2@dons.usfca.edu |
+| **Email** | anujsaxenaa@gmail.com |
 
 ## Instructions ##
 Please install the following packages
