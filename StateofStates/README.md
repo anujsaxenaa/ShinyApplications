@@ -31,6 +31,6 @@ Like the bubble plot, the same layout is shown but here using the small multiple
 ![IMAGE](parallelCoordinates.png)
 To show how the normalized values change as the points in the graph change from variable to variable. Parallel coordinates is a good technique to do this.
 ![IMAGE](geospatial.png)
-![IMAGE](southmap.png)
+![IMAGE](southernmap.png)
 Used map_data from the maps package to plot the same states dataset on the US map using the lat and long coordinates.
 Used zooming to view particular and combination of regions. 
