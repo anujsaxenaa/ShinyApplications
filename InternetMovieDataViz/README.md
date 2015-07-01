@@ -5,6 +5,8 @@ Watching Movie trends
 |----------:|:-------------|
 | **Email** | anujsaxenaa@gmail.com |
 
+Live Version:- https://anujsaxenaa.shinyapps.io/InternetMovieDataViz
+
 ## Instructions ##
 
 The following packages must be installed prior to running this code:
