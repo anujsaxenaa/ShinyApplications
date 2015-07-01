@@ -5,6 +5,8 @@ Text Visualization of Harry Potter Series
 |----------:|:-------------|
 | **Email** | anujsaxenaa@gmail.com |
 
+Live Version:- https://anujsaxenaa.shinyapps.io/R-lohamora
+
 ## Instructions ##
 
 Please install the following packages:
